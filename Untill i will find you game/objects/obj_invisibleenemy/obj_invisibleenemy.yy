@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_background2",
+  "%Name":"obj_invisibleenemy",
   "eventList":[],
   "managed":true,
-  "name":"obj_background2",
+  "name":"obj_invisibleenemy",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -26,10 +26,10 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
+  "solid":true,
   "spriteId":{
-    "name":"spr_background2",
-    "path":"sprites/spr_background2/spr_background2.yy",
+    "name":"spr_invisibleenemy",
+    "path":"sprites/spr_invisibleenemy/spr_invisibleenemy.yy",
   },
   "spriteMaskId":null,
   "visible":true,

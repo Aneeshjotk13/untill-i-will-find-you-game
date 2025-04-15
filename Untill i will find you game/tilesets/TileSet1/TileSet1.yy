@@ -18,8 +18,8 @@
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
   "spriteId":{
-    "name":"tilemap_packed",
-    "path":"sprites/tilemap_packed/tilemap_packed.yy",
+    "name":"spr_background3",
+    "path":"sprites/spr_background3/spr_background3.yy",
   },
   "spriteNoExport":false,
   "textureGroupId":{
@@ -28,10 +28,10 @@
   },
   "tileAnimationFrames":[],
   "tileAnimationSpeed":15.0,
-  "tileHeight":11,
+  "tileHeight":16,
   "tilehsep":0,
   "tilevsep":0,
-  "tileWidth":12,
+  "tileWidth":16,
   "tilexoff":0,
   "tileyoff":0,
   "tile_count":256,
