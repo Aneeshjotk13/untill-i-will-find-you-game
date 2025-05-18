@@ -18,8 +18,8 @@
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
   "spriteId":{
-    "name":"Sprite9",
-    "path":"sprites/Sprite9/Sprite9.yy",
+    "name":"spr_woods",
+    "path":"sprites/spr_woods/spr_woods.yy",
   },
   "spriteNoExport":false,
   "textureGroupId":{
