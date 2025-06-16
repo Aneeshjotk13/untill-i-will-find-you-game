@@ -1,3 +1,5 @@
-global.collected_coins = 0; // Initialize collected coins
-global.total_coins = instance_number(obj_coin); // Set total coins in the room
-persistent = true; // Keep the controller alive across rooms
+// Initialize globals (score can be added if you want)
+global.score = 0;
+global.bullets = 10;          // Starting bullets count
+global.collected_coins = 0;   // Coins collected by player
+global.all_coins_collected = false;

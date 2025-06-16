@@ -1,6 +1,6 @@
-/// @DnDAction : YoYo Games.Common.Execute_Code
-/// @DnDVersion : 1
-/// @DnDHash : 6F682571
-/// @DnDArgument : "code" "sprite_index = spr_braveson_down;$(13_10)move_speed = 4;$(13_10)"
-sprite_index = spr_braveson_down;
+// Movement variables
 move_speed = 4;
+shoot_cooldown = 10;
+shoot_timer = 0;
+out_of_bullets_msg_timer = 0;
+sprite_index = spr_braveson_down;
